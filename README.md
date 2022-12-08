@@ -1,6 +1,8 @@
 # PTWD
 **pay the web dev**
 
+[example](https://ptwd-example.netlify.app/)
+
 # What?
 'small' django rest framework app to validate whether or not someone has paid before the due date
 
@@ -9,7 +11,7 @@ upon sending a GET request with the proper randomly gennerated identifier in the
 
 # Then What?
 the frontend upon receiving the boolean, is free to do whatever they want to do with it.
-[Example]()
+[Example](https://ptwd-example.netlify.app/)
 
 # Why?
 idk i'm bored
